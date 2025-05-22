@@ -1,10 +1,7 @@
-html {
-	font-size: 22px;
-}
-
 body {
 	background-color: #333;
 	color: whitesmoke;
+	font-size: 22px;
 }
 
 a {
@@ -17,4 +14,8 @@ a:visited {
 
 a:hover, a:active {
 	color: #bbb;
+}
+
+p {
+	font-size: 64px;
 }
