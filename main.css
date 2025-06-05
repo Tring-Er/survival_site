@@ -32,6 +32,10 @@ a:hover, a:active {
 	font-size: 3rem;
 }
 
+.FontSize2REM {
+	font-size: 2rem;
+}
+
 .HorizontalPadding5Percent {
 	padding-left: 5%;
 	padding-right: 5%;
@@ -48,4 +52,9 @@ a:hover, a:active {
 
 .Width33Percent {
 	width: 33%;
+}
+
+.LeftAndRightMarginAuto {
+	margin-left: auto;
+	margin-right: auto;
 }
