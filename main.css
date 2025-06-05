@@ -5,24 +5,23 @@
 }
 
 body {
-	background: #333;
-	color: whitesmoke;
+	color: #232322;
 }
 
 a {
-	color: aliceblue;
+	color: darkblue;
 }
 
 a:visited {
-	color: lightgray;
+	color: darkblue;
 }
 
 a:hover, a:active {
-	color: #bbb;
+	color: darkblue;
 }
 
 .Bordered {
-	border: 2px solid white;
+	border: 2px solid black;
 }
 
 .FontSize4REM {
